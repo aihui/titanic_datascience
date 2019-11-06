@@ -1,0 +1,2 @@
+pypandoc==1.4
+-e /Users/ao/Dropbox (Personal)/DataSci/SpringBoard/13.3.2-Production-data-science-using-git
